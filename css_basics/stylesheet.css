@@ -1,0 +1,22 @@
+.class_test {color: yellow; font-size: 30px}
+
+* {background: #fffff}
+
+#id_test{
+  color: green;
+  font-size: 10px
+}
+
+.hover_test:hover {font-size: 50px;
+text-decoration: none;}
+
+a:visited{
+background: black;
+color: pink:}
+
+p {
+border-style: dotted;
+padding-top: 10px;
+padding-left: 10px;
+margin: 100px
+}
